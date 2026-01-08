@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samarth | About Me
+# Hi 👋, I'm Samarth
 
 ### 🚀 Full Stack Architect & Multi-Disciplinary Engineer
 
